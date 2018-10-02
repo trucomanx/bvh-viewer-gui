@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Bvh-Viewer-Gui
+Version=1.0
+Exec=bvh-viewer-gui
+Comment=bvh viewer - graphic user interface
+Icon=/usr/share/bvh-viewer-gui/icons/bvh-viewer-gui.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=Education;
+
+Name[pt_BR]=bvh-viewer-gui

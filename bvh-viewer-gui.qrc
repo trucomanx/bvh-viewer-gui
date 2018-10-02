@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/myimages">
+        <file>share/bvh-viewer-gui/icons/bvh-viewer-gui.png</file>
+        <file>share/bvh-viewer-gui/icons/edit-add.png</file>
+        <file>share/bvh-viewer-gui/icons/edit-rem.png</file>
+        <file>share/bvh-viewer-gui/icons/folder.png</file>
+        <file>share/bvh-viewer-gui/icons/folder-saved-search.png</file>
+        <file>share/bvh-viewer-gui/icons/Gnome-edit-paste.png</file>
+        <file>share/bvh-viewer-gui/icons/Gnome-media-flash.png</file>
+        <file>share/bvh-viewer-gui/icons/Gnome-media-floppy.png</file>
+        <file>share/bvh-viewer-gui/icons/gtk-zoom-fit.png</file>
+        <file>share/bvh-viewer-gui/icons/text-x-generic.png</file>
+        <file>share/bvh-viewer-gui/icons/if_document_1055071.png</file>
+        <file>share/bvh-viewer-gui/icons/if_compose_1055085.png</file>
+        <file>share/bvh-viewer-gui/icons/if_polaroids_1055003.png</file>
+        <file>share/bvh-viewer-gui/icons/if_tools_1054957.png</file>
+        <file>share/bvh-viewer-gui/icons/Information_icon.png</file>
+    </qresource>
+</RCC>
